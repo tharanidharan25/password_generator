@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #1F2938;
+}
+
+#first-h1 {
+    color: white;
+}
+
+#second-h1 {
+    color: #10B981;
+}
+
+.container {
+    color: white;
+    margin: 0px 2em 1em 2em;
+    padding-bottom: 1em;
+    border-bottom: 0.5px solid #32404B;
+}
+
+#generate-btn {
+    padding: 7px;
+    background: #10B981;
+    color: white;
+    border: none;
+    border-radius: 0.4em;
+}
+
+.generated-password {
+    color: #10B981;
+    background-color: #32404B;
+    border: none;
+    margin-left: 2em;
+    width: 39%;
+    height: 2em;
+    padding: 0.4em;
+    border-radius: 0.3em;
+    font-size: 15px;
+}
